@@ -1,3 +1,3 @@
-Integrantes
-Alejandro Charry
-Nicolas Toro
+Integrantes:
+- Alejandro Charry.
+- Nicolas Toro.
