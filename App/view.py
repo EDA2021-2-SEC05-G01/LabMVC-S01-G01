@@ -79,7 +79,7 @@ while True:
         print('Total de tags cargados: ' + str(lt.size(tags)))
 
     elif int(inputs[0]) == 3:
-        print("Cargando información de los libros y tags....")
+        print("Cargando información de libros y tags....")
         booktags = loadBooksTags()
         print("Total de libros y tags cargados: " + str(lt.size(booktags)))
 
