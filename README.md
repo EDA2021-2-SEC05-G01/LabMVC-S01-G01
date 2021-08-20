@@ -1,6 +1,7 @@
 Miembros equipo 1:
 
 -Alejandro Charry
--Nicolas Toro  
+-Nicolas Felipe Toro Barrios
+
 
 
